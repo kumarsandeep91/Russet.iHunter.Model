@@ -1,0 +1,15 @@
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\bin\Microsoft.PythonTools.WebRole.dll
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\attach_server.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\visualstudio_py_debugger.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\visualstudio_py_repl.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\visualstudio_py_util.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\__init__.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\__main__.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\bin\AzureSetup.cfg
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\bin\wfastcgi.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\deployment-updated-pyvenv.cfg
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\ptvs_virtualenv_proxy.py
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\web.config
+D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter\obj\Debug\web.debug.config
