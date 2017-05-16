@@ -3999,3 +3999,727 @@ C:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\P
 2017-05-17T00:06:56: Saving group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\django"
 2017-05-17T00:06:59: End of group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\django"
 2017-05-17T00:07:08: Deleting 0 files
+
+2017-05-17T01:12:37: Start analysis
+2017-05-17T01:12:38: [WARNING] Library was set explicitly - skipping path detection
+2017-05-17T01:12:38: IncludeModulesFromModulePath = win32com
+2017-05-17T01:12:42: Deleting 0 files
+2017-05-17T01:12:42: astropy.CallDepth = 0
+2017-05-17T01:12:42: matplotlib.CallDepth = 3
+2017-05-17T01:12:42: pandas.CallDepth = 0
+2017-05-17T01:12:42: sympy.CallDepth = 0
+2017-05-17T01:12:42: Start group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium" with 78 files
+2017-05-17T01:12:42: Parsing "selenium" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.common.exceptions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\common\exceptions.py")
+2017-05-17T01:12:43: Parsing "selenium.common" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\common\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.android.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\android\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.android" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\android\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.blackberry.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\blackberry\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.blackberry" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\blackberry\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.chrome.options" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\chrome\options.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.chrome.remote_connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\chrome\remote_connection.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.chrome.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\chrome\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.chrome.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\chrome\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.chrome" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\chrome\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.action_chains" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\action_chains.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.alert" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\alert.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.by" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\by.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.desired_capabilities" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\desired_capabilities.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.keys" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\keys.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.proxy" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\proxy.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.touch_actions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\touch_actions.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\utils.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.action_builder" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.input_device" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\input_device.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.interaction" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\interaction.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.key_actions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\key_actions.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.key_input" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\key_input.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.mouse_button" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\mouse_button.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.pointer_actions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\pointer_actions.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions.pointer_input" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\pointer_input.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.actions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\actions\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.html5.application_cache" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\html5\application_cache.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.common.html5" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\common\html5\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.edge.options" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\edge\options.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.edge.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\edge\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.edge.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\edge\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.edge" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\edge\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.extension_connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\extension_connection.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.firefox_binary" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\firefox_binary.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.firefox_profile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\firefox_profile.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.options" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\options.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.remote_connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\remote_connection.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox.webelement" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\webelement.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.firefox" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\firefox\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.ie.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\ie\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.ie.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\ie\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.ie" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\ie\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.opera.options" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\opera\options.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.opera.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\opera\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.opera" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\opera\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.phantomjs.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\phantomjs\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.phantomjs.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\phantomjs\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.phantomjs" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\phantomjs\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.command" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\command.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.errorhandler" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.file_detector" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\file_detector.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.mobile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\mobile.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.remote_connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\remote_connection.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.switch_to" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\switch_to.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\utils.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote.webelement" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\webelement.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.remote" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\remote\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.safari.service" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\safari\service.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.safari.webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\safari\webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.safari" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\safari\__init__.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.abstract_event_listener" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\abstract_event_listener.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.color" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\color.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.events" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\events.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.event_firing_webdriver" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\event_firing_webdriver.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.expected_conditions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\expected_conditions.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.select" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\select.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.ui" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\ui.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support.wait" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\wait.py")
+2017-05-17T01:12:43: Parsing "selenium.webdriver.support" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium\webdriver\support\__init__.py")
+2017-05-17T01:12:43: Parsing complete
+2017-05-17T01:12:43: Analyzing "selenium"
+2017-05-17T01:12:43: Analyzing "selenium.common.exceptions"
+2017-05-17T01:12:43: Analyzing "selenium.common"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.android.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.android"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.blackberry.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.blackberry"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.chrome.options"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.chrome.remote_connection"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.chrome.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.chrome.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.chrome"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.action_chains"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.alert"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.by"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.desired_capabilities"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.keys"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.proxy"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.touch_actions"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.utils"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.action_builder"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.input_device"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.interaction"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.key_actions"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.key_input"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.mouse_button"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.pointer_actions"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions.pointer_input"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.actions"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.html5.application_cache"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.common.html5"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.edge.options"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.edge.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.edge.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.edge"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.extension_connection"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.firefox_binary"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.firefox_profile"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.options"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.remote_connection"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox.webelement"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.firefox"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.ie.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.ie.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.ie"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.opera.options"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.opera.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.opera"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.phantomjs.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.phantomjs.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.phantomjs"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.command"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.errorhandler"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.file_detector"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.mobile"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.remote_connection"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.switch_to"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.utils"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote.webelement"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.remote"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.safari.service"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.safari.webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.safari"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.abstract_event_listener"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.color"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.events"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.event_firing_webdriver"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.expected_conditions"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.select"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.ui"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support.wait"
+2017-05-17T01:12:43: Analyzing "selenium.webdriver.support"
+2017-05-17T01:12:43: Starting analysis of 78 modules
+2017-05-17T01:13:03: Analysis complete
+2017-05-17T01:13:03: Saving group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium"
+2017-05-17T01:13:04: End of group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\selenium"
+2017-05-17T01:13:06: Deleting 0 files
+
+2017-05-17T01:35:55: Start analysis
+2017-05-17T01:35:55: [WARNING] Library was set explicitly - skipping path detection
+2017-05-17T01:35:55: IncludeModulesFromModulePath = win32com
+2017-05-17T01:35:56: Deleting 38 files
+2017-05-17T01:35:56: astropy.CallDepth = 0
+2017-05-17T01:35:56: matplotlib.CallDepth = 3
+2017-05-17T01:35:56: pandas.CallDepth = 0
+2017-05-17T01:35:56: sympy.CallDepth = 0
+2017-05-17T01:35:56: Start group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools" with 39 files
+2017-05-17T01:35:57: Parsing "setuptools.archive_util" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\archive_util.py")
+2017-05-17T01:35:57: Parsing "setuptools.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\compat.py")
+2017-05-17T01:35:57: Parsing "setuptools.depends" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\depends.py")
+2017-05-17T01:35:57: Parsing "setuptools.dist" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\dist.py")
+2017-05-17T01:35:57: Parsing "setuptools.extension" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\extension.py")
+2017-05-17T01:35:57: Parsing "setuptools.lib2to3_ex" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-05-17T01:35:57: Parsing "setuptools.msvc9_support" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\msvc9_support.py")
+2017-05-17T01:35:57: Parsing "setuptools.package_index" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\package_index.py")
+2017-05-17T01:35:57: Parsing "setuptools.py26compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\py26compat.py")
+2017-05-17T01:35:57: Parsing "setuptools.py27compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\py27compat.py")
+2017-05-17T01:35:57: Parsing "setuptools.py31compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\py31compat.py")
+2017-05-17T01:35:57: Parsing "setuptools.sandbox" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\sandbox.py")
+2017-05-17T01:35:57: Parsing "setuptools.ssl_support" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\ssl_support.py")
+2017-05-17T01:35:57: Parsing "setuptools.unicode_utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\unicode_utils.py")
+2017-05-17T01:35:57: Parsing "setuptools.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\utils.py")
+2017-05-17T01:35:57: Parsing "setuptools.version" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\version.py")
+2017-05-17T01:35:57: Parsing "setuptools.windows_support" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\windows_support.py")
+2017-05-17T01:35:57: Parsing "setuptools" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\__init__.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.alias" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\alias.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.bdist_egg" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.bdist_rpm" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.bdist_wininst" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.build_ext" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\build_ext.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.build_py" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\build_py.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.develop" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\develop.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.easy_install" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\easy_install.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.egg_info" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\egg_info.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.install" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\install.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.install_egg_info" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.install_lib" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\install_lib.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.install_scripts" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.register" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\register.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.rotate" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\rotate.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.saveopts" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\saveopts.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.sdist" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\sdist.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.setopt" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\setopt.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.test" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\test.py")
+2017-05-17T01:35:57: Parsing "setuptools.command.upload_docs" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-05-17T01:35:57: Parsing "setuptools.command" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools\command\__init__.py")
+2017-05-17T01:35:57: Parsing complete
+2017-05-17T01:35:57: Analyzing "setuptools.archive_util"
+2017-05-17T01:35:57: Analyzing "setuptools.compat"
+2017-05-17T01:35:57: Analyzing "setuptools.depends"
+2017-05-17T01:35:57: Analyzing "setuptools.dist"
+2017-05-17T01:35:57: Analyzing "setuptools.extension"
+2017-05-17T01:35:57: Analyzing "setuptools.lib2to3_ex"
+2017-05-17T01:35:57: Analyzing "setuptools.msvc9_support"
+2017-05-17T01:35:57: Analyzing "setuptools.package_index"
+2017-05-17T01:35:57: Analyzing "setuptools.py26compat"
+2017-05-17T01:35:57: Analyzing "setuptools.py27compat"
+2017-05-17T01:35:57: Analyzing "setuptools.py31compat"
+2017-05-17T01:35:57: Analyzing "setuptools.sandbox"
+2017-05-17T01:35:57: Analyzing "setuptools.ssl_support"
+2017-05-17T01:35:57: Analyzing "setuptools.unicode_utils"
+2017-05-17T01:35:57: Analyzing "setuptools.utils"
+2017-05-17T01:35:57: Analyzing "setuptools.version"
+2017-05-17T01:35:57: Analyzing "setuptools.windows_support"
+2017-05-17T01:35:57: Analyzing "setuptools"
+2017-05-17T01:35:57: Analyzing "setuptools.command.alias"
+2017-05-17T01:35:57: Analyzing "setuptools.command.bdist_egg"
+2017-05-17T01:35:57: Analyzing "setuptools.command.bdist_rpm"
+2017-05-17T01:35:57: Analyzing "setuptools.command.bdist_wininst"
+2017-05-17T01:35:57: Analyzing "setuptools.command.build_ext"
+2017-05-17T01:35:57: Analyzing "setuptools.command.build_py"
+2017-05-17T01:35:57: Analyzing "setuptools.command.develop"
+2017-05-17T01:35:57: Analyzing "setuptools.command.easy_install"
+2017-05-17T01:35:57: Analyzing "setuptools.command.egg_info"
+2017-05-17T01:35:57: Analyzing "setuptools.command.install"
+2017-05-17T01:35:57: Analyzing "setuptools.command.install_egg_info"
+2017-05-17T01:35:57: Analyzing "setuptools.command.install_lib"
+2017-05-17T01:35:57: Analyzing "setuptools.command.install_scripts"
+2017-05-17T01:35:57: Analyzing "setuptools.command.register"
+2017-05-17T01:35:57: Analyzing "setuptools.command.rotate"
+2017-05-17T01:35:57: Analyzing "setuptools.command.saveopts"
+2017-05-17T01:35:57: Analyzing "setuptools.command.sdist"
+2017-05-17T01:35:57: Analyzing "setuptools.command.setopt"
+2017-05-17T01:35:57: Analyzing "setuptools.command.test"
+2017-05-17T01:35:57: Analyzing "setuptools.command.upload_docs"
+2017-05-17T01:35:57: Analyzing "setuptools.command"
+2017-05-17T01:35:57: Starting analysis of 39 modules
+2017-05-17T01:36:19: Analysis complete
+2017-05-17T01:36:19: Saving group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools"
+2017-05-17T01:36:19: End of group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\setuptools"
+2017-05-17T01:36:21: Deleting 0 files
+
+2017-05-17T02:27:10: Start analysis
+2017-05-17T02:27:10: [WARNING] Library was set explicitly - skipping path detection
+2017-05-17T02:27:10: IncludeModulesFromModulePath = win32com
+2017-05-17T02:27:12: Deleting 133 files
+2017-05-17T02:27:12: astropy.CallDepth = 0
+2017-05-17T02:27:12: matplotlib.CallDepth = 3
+2017-05-17T02:27:12: pandas.CallDepth = 0
+2017-05-17T02:27:12: sympy.CallDepth = 0
+2017-05-17T02:27:12: Start group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip" with 221 files
+2017-05-17T02:27:13: Parsing "pip.basecommand" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\basecommand.py")
+2017-05-17T02:27:13: Parsing "pip.baseparser" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\baseparser.py")
+2017-05-17T02:27:13: Parsing "pip.cmdoptions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\cmdoptions.py")
+2017-05-17T02:27:13: Parsing "pip.download" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\download.py")
+2017-05-17T02:27:14: Parsing "pip.exceptions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\exceptions.py")
+2017-05-17T02:27:14: Parsing "pip.index" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\index.py")
+2017-05-17T02:27:14: Parsing "pip.locations" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\locations.py")
+2017-05-17T02:27:14: Parsing "pip.pep425tags" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\pep425tags.py")
+2017-05-17T02:27:14: Parsing "pip.status_codes" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\status_codes.py")
+2017-05-17T02:27:14: Parsing "pip.wheel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\wheel.py")
+2017-05-17T02:27:14: Parsing "pip" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\__init__.py")
+2017-05-17T02:27:14: Parsing "pip.__main__" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\__main__.py")
+2017-05-17T02:27:14: Parsing "pip.commands.completion" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\completion.py")
+2017-05-17T02:27:14: Parsing "pip.commands.freeze" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\freeze.py")
+2017-05-17T02:27:14: Parsing "pip.commands.help" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\help.py")
+2017-05-17T02:27:14: Parsing "pip.commands.install" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\install.py")
+2017-05-17T02:27:14: Parsing "pip.commands.list" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\list.py")
+2017-05-17T02:27:14: Parsing "pip.commands.search" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\search.py")
+2017-05-17T02:27:14: Parsing "pip.commands.show" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\show.py")
+2017-05-17T02:27:14: Parsing "pip.commands.uninstall" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\uninstall.py")
+2017-05-17T02:27:14: Parsing "pip.commands.wheel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\wheel.py")
+2017-05-17T02:27:15: Parsing "pip.commands" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\commands\__init__.py")
+2017-05-17T02:27:15: Parsing "pip.compat.dictconfig" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\compat\dictconfig.py")
+2017-05-17T02:27:15: Parsing "pip.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\compat\__init__.py")
+2017-05-17T02:27:15: Parsing "pip.models.index" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\models\index.py")
+2017-05-17T02:27:15: Parsing "pip.models" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\models\__init__.py")
+2017-05-17T02:27:15: Parsing "pip.operations.freeze" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\operations\freeze.py")
+2017-05-17T02:27:15: Parsing "pip.operations" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\operations\__init__.py")
+2017-05-17T02:27:15: Parsing "pip.req.req_file" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\req\req_file.py")
+2017-05-17T02:27:15: Parsing "pip.req.req_install" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\req\req_install.py")
+2017-05-17T02:27:15: Parsing "pip.req.req_set" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\req\req_set.py")
+2017-05-17T02:27:15: Parsing "pip.req.req_uninstall" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\req\req_uninstall.py")
+2017-05-17T02:27:15: Parsing "pip.req" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\req\__init__.py")
+2017-05-17T02:27:15: Parsing "pip.utils.appdirs" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\appdirs.py")
+2017-05-17T02:27:15: Parsing "pip.utils.build" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\build.py")
+2017-05-17T02:27:16: Parsing "pip.utils.deprecation" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\deprecation.py")
+2017-05-17T02:27:16: Parsing "pip.utils.filesystem" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\filesystem.py")
+2017-05-17T02:27:16: Parsing "pip.utils.logging" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\logging.py")
+2017-05-17T02:27:16: Parsing "pip.utils.outdated" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\outdated.py")
+2017-05-17T02:27:16: Parsing "pip.utils.ui" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\ui.py")
+2017-05-17T02:27:16: Parsing "pip.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\utils\__init__.py")
+2017-05-17T02:27:16: Parsing "pip.vcs.bazaar" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\vcs\bazaar.py")
+2017-05-17T02:27:16: Parsing "pip.vcs.git" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\vcs\git.py")
+2017-05-17T02:27:16: Parsing "pip.vcs.mercurial" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\vcs\mercurial.py")
+2017-05-17T02:27:16: Parsing "pip.vcs.subversion" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\vcs\subversion.py")
+2017-05-17T02:27:16: Parsing "pip.vcs" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\vcs\__init__.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.ipaddress" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.retrying" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\retrying.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.six" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\six.py")
+2017-05-17T02:27:16: Parsing "pip._vendor" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\__init__.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.adapter" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.cache" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.controller" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.filewrapper" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.heuristics" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.serialize" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.wrapper" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.cachecontrol.caches" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.colorama.ansi" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-05-17T02:27:16: Parsing "pip._vendor.colorama.ansitowin32" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.colorama.initialise" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.colorama.win32" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.colorama.winterm" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.colorama" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.database" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.index" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.locators" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.manifest" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.markers" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.metadata" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.resources" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.scripts" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.util" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.version" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib.wheel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib._backport.misc" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib._backport.shutil" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.distlib._backport" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.html5lib.constants" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-05-17T02:27:17: Parsing "pip._vendor.html5lib.html5parser" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.ihatexml" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.inputstream" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.sanitizer" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.tokenizer" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.lint" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters._base" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.filters" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.serializer" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treeadapters.sax" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treeadapters" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treebuilders._base" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treebuilders" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers._base" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.treewalkers" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.trie.datrie" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.trie.py" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.trie._base" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.html5lib.trie" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.lockfile.linklockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.lockfile.mkdirlockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.lockfile.pidlockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-05-17T02:27:18: Parsing "pip._vendor.lockfile.sqlitelockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.lockfile.symlinklockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.lockfile" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging.specifiers" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging.version" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging._compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging._structures" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging.__about__" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.packaging" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.pkg_resources" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.progress.bar" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.progress.counter" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.progress.helpers" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.progress.spinner" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.progress" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.adapters" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.api" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.auth" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.certs" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.cookies" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.exceptions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.hooks" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.models" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.sessions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-05-17T02:27:19: Parsing "pip._vendor.requests.status_codes" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.structures" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.utils" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.chardet" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-05-17T02:27:20: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-05-17T02:27:20: Parsing "pip._vendor._markerlib.markers" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2017-05-17T02:27:20: Parsing "pip._vendor._markerlib" ("D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2017-05-17T02:27:20: Parsing complete
+2017-05-17T02:27:20: Analyzing "pip.basecommand"
+2017-05-17T02:27:20: Analyzing "pip.baseparser"
+2017-05-17T02:27:20: Analyzing "pip.cmdoptions"
+2017-05-17T02:27:20: Analyzing "pip.download"
+2017-05-17T02:27:20: Analyzing "pip.exceptions"
+2017-05-17T02:27:20: Analyzing "pip.index"
+2017-05-17T02:27:20: Analyzing "pip.locations"
+2017-05-17T02:27:20: Analyzing "pip.pep425tags"
+2017-05-17T02:27:20: Analyzing "pip.status_codes"
+2017-05-17T02:27:20: Analyzing "pip.wheel"
+2017-05-17T02:27:20: Analyzing "pip"
+2017-05-17T02:27:20: Analyzing "pip.__main__"
+2017-05-17T02:27:20: Analyzing "pip.commands.completion"
+2017-05-17T02:27:20: Analyzing "pip.commands.freeze"
+2017-05-17T02:27:20: Analyzing "pip.commands.help"
+2017-05-17T02:27:20: Analyzing "pip.commands.install"
+2017-05-17T02:27:20: Analyzing "pip.commands.list"
+2017-05-17T02:27:20: Analyzing "pip.commands.search"
+2017-05-17T02:27:20: Analyzing "pip.commands.show"
+2017-05-17T02:27:20: Analyzing "pip.commands.uninstall"
+2017-05-17T02:27:20: Analyzing "pip.commands.wheel"
+2017-05-17T02:27:20: Analyzing "pip.commands"
+2017-05-17T02:27:20: Analyzing "pip.compat.dictconfig"
+2017-05-17T02:27:20: Analyzing "pip.compat"
+2017-05-17T02:27:20: Analyzing "pip.models.index"
+2017-05-17T02:27:20: Analyzing "pip.models"
+2017-05-17T02:27:20: Analyzing "pip.operations.freeze"
+2017-05-17T02:27:20: Analyzing "pip.operations"
+2017-05-17T02:27:20: Analyzing "pip.req.req_file"
+2017-05-17T02:27:20: Analyzing "pip.req.req_install"
+2017-05-17T02:27:20: Analyzing "pip.req.req_set"
+2017-05-17T02:27:20: Analyzing "pip.req.req_uninstall"
+2017-05-17T02:27:20: Analyzing "pip.req"
+2017-05-17T02:27:20: Analyzing "pip.utils.appdirs"
+2017-05-17T02:27:20: Analyzing "pip.utils.build"
+2017-05-17T02:27:20: Analyzing "pip.utils.deprecation"
+2017-05-17T02:27:20: Analyzing "pip.utils.filesystem"
+2017-05-17T02:27:20: Analyzing "pip.utils.logging"
+2017-05-17T02:27:20: Analyzing "pip.utils.outdated"
+2017-05-17T02:27:20: Analyzing "pip.utils.ui"
+2017-05-17T02:27:20: Analyzing "pip.utils"
+2017-05-17T02:27:20: Analyzing "pip.vcs.bazaar"
+2017-05-17T02:27:20: Analyzing "pip.vcs.git"
+2017-05-17T02:27:20: Analyzing "pip.vcs.mercurial"
+2017-05-17T02:27:20: Analyzing "pip.vcs.subversion"
+2017-05-17T02:27:20: Analyzing "pip.vcs"
+2017-05-17T02:27:20: Analyzing "pip._vendor.ipaddress"
+2017-05-17T02:27:20: Analyzing "pip._vendor.retrying"
+2017-05-17T02:27:20: Analyzing "pip._vendor.six"
+2017-05-17T02:27:20: Analyzing "pip._vendor"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.cache"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.compat"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.controller"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-05-17T02:27:20: Analyzing "pip._vendor.cachecontrol.caches"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama.ansi"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama.initialise"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama.win32"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama.winterm"
+2017-05-17T02:27:20: Analyzing "pip._vendor.colorama"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.compat"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.database"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.index"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.locators"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.manifest"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.markers"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.metadata"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.resources"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.scripts"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.util"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.version"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib.wheel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib._backport.misc"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.distlib._backport"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.constants"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.html5parser"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.ihatexml"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.inputstream"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.sanitizer"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.tokenizer"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.utils"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters._base"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.filters"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.serializer"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.trie.datrie"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.trie.py"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.trie._base"
+2017-05-17T02:27:20: Analyzing "pip._vendor.html5lib.trie"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.lockfile"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging.specifiers"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging.version"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging._compat"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging._structures"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging.__about__"
+2017-05-17T02:27:20: Analyzing "pip._vendor.packaging"
+2017-05-17T02:27:20: Analyzing "pip._vendor.pkg_resources"
+2017-05-17T02:27:20: Analyzing "pip._vendor.progress.bar"
+2017-05-17T02:27:20: Analyzing "pip._vendor.progress.counter"
+2017-05-17T02:27:20: Analyzing "pip._vendor.progress.helpers"
+2017-05-17T02:27:20: Analyzing "pip._vendor.progress.spinner"
+2017-05-17T02:27:20: Analyzing "pip._vendor.progress"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.adapters"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.api"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.auth"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.certs"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.compat"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.cookies"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.exceptions"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.hooks"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.models"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.sessions"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.status_codes"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.structures"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.utils"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.chardet"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-05-17T02:27:20: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-05-17T02:27:20: Analyzing "pip._vendor._markerlib.markers"
+2017-05-17T02:27:20: Analyzing "pip._vendor._markerlib"
+2017-05-17T02:27:20: Starting analysis of 221 modules
+2017-05-17T02:27:28: Analysis complete
+2017-05-17T02:27:28: Saving group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip"
+2017-05-17T02:27:29: End of group "D:\Russet\Projects\opensource\Russet.iHunter.Model\iHunter_VirtualEnv\Lib\site-packages\pip"
+2017-05-17T02:27:30: Deleting 0 files

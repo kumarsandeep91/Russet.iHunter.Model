@@ -9,8 +9,8 @@ six
 sys
 distlib
 absolute_import
-glob
 html5lib
+glob
 _markerlib
 DEBUNDLED
 cachecontrol

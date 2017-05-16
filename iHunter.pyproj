@@ -38,7 +38,21 @@
     <Compile Include="iHunterModel\admin.py" />
     <Compile Include="iHunterModel\apps.py" />
     <Compile Include="iHunterModel\migrations\__init__.py" />
-    <Compile Include="iHunterModel\models.py" />
+    <Compile Include="iHunterModel\models\DomainObject.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="iHunterModel\models\Person.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="iHunterModel\models\Student.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="iHunterModel\models\Title.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="iHunterModel\models\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="iHunterModel\tests.py" />
     <Compile Include="iHunterModel\views.py" />
     <Compile Include="iHunterModel\__init__.py" />
@@ -60,6 +74,7 @@
     <Folder Include="app\templates\app\" />
     <Folder Include="iHunterModel\" />
     <Folder Include="iHunterModel\migrations\" />
+    <Folder Include="iHunterModel\models\" />
     <Folder Include="iHunterModel\templates\" />
     <Folder Include="iHunter\" />
   </ItemGroup>
@@ -95,11 +110,6 @@
     <Content Include="app\templates\app\layout.html" />
     <Content Include="app\templates\app\login.html" />
     <Content Include="app\templates\app\loginpartial.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="readme.mht">
-      <SubType>WebBrowser</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="iHunter_VirtualEnv\">

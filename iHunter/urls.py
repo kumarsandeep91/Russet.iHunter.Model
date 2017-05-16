@@ -4,6 +4,7 @@ Definition of urls for iHunter.
 
 from datetime import datetime
 from django.conf.urls import url
+from django.contrib import admin
 import django.contrib.auth.views
 
 import app.forms
@@ -19,6 +20,7 @@ urlpatterns = [
     url(r'^$', app.views.home, name='home'),
     url(r'^contact$', app.views.contact, name='contact'),
     url(r'^about', app.views.about, name='about'),
+    url(r'^admin/', admin.site.urls),
     url(r'^login/$',
         django.contrib.auth.views.login,
         {
