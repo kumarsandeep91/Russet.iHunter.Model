@@ -19,5 +19,5 @@ class Organization(DomainObject):
     # Relationship. nullable is true.
     type = models.ForeignKey(OrganizationType, on_delete=models.CASCADE, blank=True, null=True)
 
-    class Meta:
-        abstract = True
+    def __str__(self):
+        return self.name

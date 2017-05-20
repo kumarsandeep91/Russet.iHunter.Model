@@ -40,20 +40,11 @@
     <Compile Include="iHunterModel\models\EducationalOrganization.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="iHunterModel\models\Gender.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="iHunterModel\migrations\__init__.py" />
     <Compile Include="iHunterModel\models\Address.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="iHunterModel\models\City.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="iHunterModel\models\Contact.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="iHunterModel\models\Country.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="iHunterModel\models\DomainObject.py">
@@ -62,23 +53,13 @@
     <Compile Include="iHunterModel\models\Organization.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="iHunterModel\models\EducationalOrganizationType.py" />
-    <Compile Include="iHunterModel\models\OrganizationType.py">
+	<Compile Include="iHunterModel\models\Location.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="iHunterModel\models\Person.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="iHunterModel\models\State.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="iHunterModel\models\Student.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="iHunterModel\models\Title.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="iHunterModel\models\ZipCode.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="iHunterModel\models\__init__.py">
