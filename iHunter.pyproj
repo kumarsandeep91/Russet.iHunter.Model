@@ -53,12 +53,13 @@
     <Compile Include="iHunterModel\models\Organization.py">
       <SubType>Code</SubType>
     </Compile>
-	<Compile Include="iHunterModel\models\Location.py">
+    <Compile Include="iHunterModel\models\Location.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="iHunterModel\models\Person.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="iHunterModel\models\Teacher.py" />
     <Compile Include="iHunterModel\models\Student.py">
       <SubType>Code</SubType>
     </Compile>
@@ -101,7 +102,6 @@
     <Content Include="requirements.txt" />
     <Content Include="README.md" />
     <Content Include="LICENSE.md" />
-    <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
     <Content Include="app\static\app\content\bootstrap.min.css" />
     <Content Include="app\static\app\content\site.css" />

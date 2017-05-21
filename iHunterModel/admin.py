@@ -12,6 +12,8 @@ iHunterModels = [
     Title,
     Person,
     Student,
+    Teacher,
+    Standard,
     Gender,
     Country,
     State,

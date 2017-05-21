@@ -6,3 +6,4 @@ from .EducationalOrganization import *
 from .Location import *
 from .Address import *
 from .Contact import *
+from .Teacher import *
