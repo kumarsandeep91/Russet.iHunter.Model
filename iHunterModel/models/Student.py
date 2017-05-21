@@ -6,7 +6,7 @@ class Student(Person):
     
     # relationships
     # a student belongs to a standard or class.
-    standard = models.ForeignKey(Standard, on_delete=models.CASCADE, blank=False, null=False) # required
+    standard = models.ForeignKey('Standard', on_delete=models.CASCADE, blank=False, null=False) # required
     # a student can belong to many educational organizations.
     educational_organizations = models.ManyToManyField('EducationalOrganization')
 
