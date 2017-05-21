@@ -2,6 +2,7 @@ from iHunterModel.models import DomainObject, Organization, Country, State, City
 from django.db import models
 
 class Address(DomainObject):
+    """The class to create a address model."""
     # name/type of address i.e home, office etc.
     name = models.CharField(max_length=255, blank=False)
     address_line1 = models.CharField(max_length=255, blank=False)
